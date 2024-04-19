@@ -217,7 +217,7 @@ body {
 .image{
     grid-row: 1/5;
     grid-column: 1/5;
-    background: url(/airlines/ZIPAIR/images/sunset.jpg);
+    background: url(images/sunset.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
